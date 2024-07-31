@@ -21,13 +21,15 @@
 
 <div align="center">
 
-## Working On My Dream Project
+## 🌟 Working On My Dream Project 🌟
 
-<iframe width="600" height="300" src="https://www.youtube.com/embed/dJ1ga67zW-0"></iframe>
+_Click the image to watch the teaser!_
 
-<br />
+[![](https://i.imgur.com/bk3CXkF.png)](https://www.youtube.com/watch?v=dJ1ga67zW-0)
 
 [![](https://img.shields.io/badge/Wishlist_now_on_Steam!-black?style=flat&logo=steam&logoColor=white)](https://store.steampowered.com/app/2580170)
+[![](https://img.shields.io/badge/Read_the_Devlog-blue?style=flat&logo=blogger&logoColor=white)](https://store.steampowered.com/app/2580170) 
+
 
 </div>
 
@@ -48,7 +50,7 @@
 	    <td align="right"><a href="https://github.com/DAndrewBox/GM-dotEnv"><img src="https://raw.githubusercontent.com/DAndrewBox/GM-dotEnv/main/assets/GM-dotEnv-logo.png" style="width:120px"></a></td>
         <td><a href="https://github.com/DAndrewBox/GM-dotEnv">GM.env</a><br>A library that loads environment variables from a .env file into GameMaker based on JS.dotenv.</td>
         <td align="right"><a href="https://github.com/DAndrewBox/GM-Testing-Library"><img src="images/gmtl.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/DAndrewBox/GM-Testing-Library">GM.env</a><br>An open-source testing framework for GameMaker with a focus on simplicity and ease of use.</td>
+        <td><a href="https://github.com/DAndrewBox/GM-Testing-Library">GM.env</a><br>An open-source testing framework for GameMaker libraries and extensions.</td>
     </tr>
 </table>
 
