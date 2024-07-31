@@ -1,18 +1,17 @@
-<div style="margin: auto; width: 75%;">
+<div align="center" style="margin: auto; width: 75%;">
 
 ![](./images/banner.png)
 
-<div style="display:flex; gap: 1rem">
+<p align="center" style="display: flex;">
 
-[![](https://img.shields.io/badge/Portfolio-05051E?style=plastic&logo=nextdotjs)](https://dandrewbox.dev)
+[![](https://img.shields.io/badge/Portfolio-05051E?style=flat&logo=nextdotjs)](https://dandrewbox.dev)
+[![](https://img.shields.io/badge/Twitter-08A0E9?style=flat&logo=x)](https://www.x.com/dandrewbox_)
+[![](https://img.shields.io/badge/Itch.io-ff2449?style=flat&logo=itch.io&logoColor=white)](https://dandrewbox.itch.io)
+<!--
+[![](https://img.shields.io/badge/Ko_fi-ff5c61?style=flat&logo=kofi&logoColor=white)](#)
+-->
 
-[![](https://img.shields.io/badge/Twitter-08A0E9?style=plastic&logo=x)](https://www.x.com/dandrewbox_)
-
-[![](https://img.shields.io/badge/Itch.io-ff2449?style=plastic&logo=itch.io&logoColor=white)](https://dandrewbox.itch.io)
-
-[![](https://img.shields.io/badge/Ko_fi-ff5c61?style=plastic&logo=kofi&logoColor=white)](#)
-
-</div>
+</p>
 
 </div>
 
