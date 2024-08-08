@@ -48,7 +48,7 @@ _Click the image to watch the teaser!_
     </tr>
     <tr>
 	    <td align="right"><a href="https://github.com/DAndrewBox/GM-dotEnv"><img src="https://raw.githubusercontent.com/DAndrewBox/GM-dotEnv/main/assets/GM-dotEnv-logo.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/DAndrewBox/GM-dotEnv">GM.env</a><br>A library that loads environment variables from a .env file into GameMaker based on JS.dotenv.</td>
+        <td><a href="https://github.com/DAndrewBox/GM-dotEnv">GameMaker's Testing Library</a><br>A library that loads environment variables from a .env file into GameMaker based on JS.dotenv.</td>
         <td align="right"><a href="https://github.com/DAndrewBox/GM-Testing-Library"><img src="images/gmtl.png" style="width:120px"></a></td>
         <td><a href="https://github.com/DAndrewBox/GM-Testing-Library">GM.env</a><br>An open-source testing framework for GameMaker libraries and extensions.</td>
     </tr>
