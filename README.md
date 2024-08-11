@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Portfolio-05051E?style=flat&logo=nextdotjs)](https://dandrewbox.dev)
 [![](https://img.shields.io/badge/Twitter-08A0E9?style=flat&logo=x)](https://www.x.com/dandrewbox_)
 [![](https://img.shields.io/badge/Itch.io-ff2449?style=flat&logo=itch.io&logoColor=white)](https://dandrewbox.itch.io)
-[![](https://img.shields.io/badge/Youtube-ff2449?style=flat&logo=youtube&logoColor=white)](www.youtube.com/@DAndrewBox_)
+[![](https://img.shields.io/badge/Youtube-ff2449?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@DAndrewBox_)
 
 <!--
 [![](https://img.shields.io/badge/Ko_fi-ff5c61?style=flat&logo=kofi&logoColor=white)](#)
