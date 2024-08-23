@@ -28,7 +28,7 @@ _Click the image to watch the teaser!_
 [![](https://i.imgur.com/bk3CXkF.png)](https://www.youtube.com/watch?v=dJ1ga67zW-0)
 
 [![](https://img.shields.io/badge/Wishlist_now_on_Steam!-black?style=flat&logo=steam&logoColor=white)](https://store.steampowered.com/app/2580170)
-[![](https://img.shields.io/badge/Read_the_Devlog-blue?style=flat&logo=blogger&logoColor=white)](https://store.steampowered.com/app/2580170) 
+[![](https://img.shields.io/badge/Read_the_Devlog-blue?style=flat&logo=blogger&logoColor=white)](https://www.mainasutto.com/blog) 
 
 
 </div>
